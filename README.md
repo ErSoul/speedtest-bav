@@ -2,7 +2,7 @@
 
 ## Description
 
-This script will average the download/upload speeds for the different times of the day, from all the output (as CSV) of the (speedtest-cli)[https://github.com/sivel/speedtest-cli] utility.
+This script will average the download/upload speeds for the different times of the day, from all the output (as CSV) of the [speedtest-cli](https://github.com/sivel/speedtest-cli) utility.
 
 You can generate another CSV with the desired data so it'll be easier to use for another use cases. And you can see a chart to understand at which time of the day you're getting the best bandwidth.
 
